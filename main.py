@@ -9,9 +9,10 @@ import pygame_menu
 import random
 import math
 import time
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 import json
 import sys
+import difflib as dl
 
 grey = pygame.Color('grey')
 dark_grey = ~pygame.Color('grey')
@@ -35,7 +36,6 @@ class JoyCursor():
 
     def moveY(self, direction):  # Fix wonky cursor movement
         self.previndex = self.index
-        print(self.index)
         if direction >= 0:
             if self.index == 0:
                 self.index = 14
@@ -63,10 +63,14 @@ class JoyCursor():
                 self.index = 58
             elif self.index == 51:
                 self.index = 58
+            elif self.index in range(53, 60):
+                self.index = self.index
             else:
                 self.index += direction*13
         else:
-            if self.index == 14:
+            if self.index in range(0, 14):
+                self.index = self.index
+            elif self.index == 14:
                 self.index = 0
             elif self.index == 27:
                 self.index = 13
@@ -100,6 +104,7 @@ class JoyCursor():
         if self.index < 0:
             self.index = 0
         self.index = int(self.index)
+        print(self.index)
 
 # Main Class
 class TypingTool():
@@ -120,6 +125,8 @@ class TypingTool():
         self.currentrun = {}
         self.interactedkeys = []
         self.runnum = 0
+
+        self.sentences = [line.rstrip() for line in open("phrases2.txt", "r")]
 
         # print(self.MOVEEVENT)
         # block events that we don't want
@@ -155,6 +162,7 @@ class TypingTool():
         self.keyboard.draw(self.screen)
         pygame.display.update()
         
+        self.prepare_results()
         self.start_menu()
 
     def start_menu(self):
@@ -177,7 +185,7 @@ class TypingTool():
     def prepare_results(self):
         print(self.userid)
         self.userresults["user_id"] = self.userid
-        self.userresults["start_time"] = self.starttime
+        self.userresults["start_time"] = str(timedelta(seconds=round(time.time())))
         self.userresults["date"] = date.today()
 
     def tabulate(self):
@@ -185,24 +193,25 @@ class TypingTool():
         print(r)
         self.endtime = time.time()
         totaltime = self.endtime - self.starttime
-        count = 0
-        for i, c in enumerate(self.sentence):
-            try:
-                if self.usertext[i] == c:
-                    count = count + 1
-            except:
-                pass
+        error_count = 0
+        comparison = dl.SequenceMatcher(None, self.sentence, self.usertext)
+        for tag, i1, i2, j1, j2 in comparison.get_opcodes():
+            print(f'{tag:7} s1[{i1}:{i2}] --> s2[{j1}:{j2}] {self.sentence[i1:i2]!r:>6} --> {self.usertext[j1:j2]!r}')
+            if tag != 'equal':
+                error_count += (j2-j1)
+
         self.currentrun["sentence"] = self.sentence
         self.currentrun["submitted_text"] = self.usertext
-        self.currentrun["percent_incorrect"] = (count*100)/len(self.sentence)
+        self.currentrun["mode"] = self.mode
+        self.currentrun["percent_incorrect"] = (error_count*100)/len(self.sentence)
         self.currentrun["wpm"] = (len(self.usertext)*60)/(5*totaltime)
         self.currentrun["net_wpm"] = (
-            (len(self.usertext)*60)/(5*totaltime) - (count/(totaltime/60)))
+            (len(self.usertext)*60)/(5*totaltime) - (error_count/(totaltime/60)))
         self.currentrun["cps"] = (len(self.usertext)/(totaltime))
         if len(self.sentence) <= self.total_count:
-            self.currentrun["accuracy"] = ((len(self.usertext) - count)/self.total_count)*100
+            self.currentrun["accuracy"] = ((len(self.usertext) - error_count)/self.total_count)*100
         else:
-            self.currentrun["accuracy"] = ((len(self.usertext) - count)/len(self.sentence))*100
+            self.currentrun["accuracy"] = ((len(self.usertext) - error_count)/len(self.sentence))*100
         self.currentrun["interacted_keys"] = self.interactedkeys
         self.userresults[r] = self.currentrun
         # print(self.userresults)
@@ -211,14 +220,14 @@ class TypingTool():
     def reset_values(self):
         self.usertext = ''
         self.hovertext = ''
-        self.starttime = time.time()
+        self.starttime = 0
         self.endtime = 0
         self.currentrun = {}
         self.interactedkeys = []
 
     def save_and_quit(self):
         timestr = time.strftime("%Y%m%d-%H%M%S")
-        with open('/output/' + self.userid + timestr + '.json', 'w') as convert_file:
+        with open('./output/' + self.userid + timestr + '.json', 'w') as convert_file:
             convert_file.write(json.dumps(self.userresults, indent=4, default=str))
         print('quit')
         pygame.display.quit()
@@ -276,9 +285,14 @@ class TypingTool():
             self.interactedkeys.insert(self.key_index, key)
             self.key_index += 1
             self.last_interact_time_L = time.time()
-                
+
+    def update_usertext(self, text, increment=False):
+        self.usertext += text
+        if increment:
+            self.total_count += 1
+
     def run_until_user_closes_window(self): # main loop
-        self.prepare_results()
+        self.starttime = time.time()
         self.runnum += 1
         self.screen.fill(pygame.Color('White'))
         # key styles
@@ -310,15 +324,19 @@ class TypingTool():
             txt_font=pygame.font.SysFont('Arial', self.key_size//4),
             txt_padding=(self.key_size//6, self.key_size//10)
         )
+        disabled_key_info = kl.KeyInfo(
+            margin=10,
+            color=pygame.Color('LightGray'),
+            txt_color=pygame.Color('DarkGray'),
+            txt_font=pygame.font.SysFont('Arial', self.key_size//4),
+            txt_padding=(self.key_size//6, self.key_size//10)
+        )
+        disabled_keys = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 28, 41, 53]
+        
+        
         released_key_info = self.key_info
-        sentences = [
-            'caught between a rock and a hard place.',
-            'don\'t make a mountain out of a molehill.',
-            'the sharper the berry, the sweeter the wine.',
-            'the stronger the breeze the stronger the trees.',
-            'don\'t count your chickens before they hatch.'
-        ]
-        self.sentence = random.choice(sentences)
+        
+        self.sentence = random.choice(self.sentences).lower()
         self.write_text(self.screen, self.sentence, 65, 35, pygame.Color('Black'))
 
         joycur = []
@@ -358,9 +376,14 @@ class TypingTool():
         self.last_interact_time_L = 0
         self.last_interact_time_R = 0
         running = True
+
         # print(keyboard._rect_by_key_and_loc)
 
         while running:
+            for keyindex in disabled_keys:
+                curkey = list(self.keyboard._rect_by_key_and_loc.items())[keyindex][0]
+                self.keyboard.update_key(curkey, disabled_key_info)
+
             try:
                 curkeyL = list(self.keyboard._rect_by_key_and_loc.items())[
                     joycur[0].index][0]
@@ -388,10 +411,10 @@ class TypingTool():
 
                 if event.type == pygame.JOYBUTTONDOWN:
                     # print(event.button)
-                    if event.button == 4 or event.button == 8 and self.mode != 'Right':
+                    if (event.button == 4 or event.button == 8) and self.mode != 'Right':
                         self.keyboard.update_key(curkeyL, pressed_key_info_L)
                         self.add_key_L(curkeyL, 'pressed')
-                        
+                    
                         if curkeyL == Key.BACKSPACE:
                             self.usertext = self.usertext[:-1]
                             correction_count += 1
@@ -406,6 +429,20 @@ class TypingTool():
                             self.usertext += ''
                         elif curkeyL == Key.CAPSLOCK:
                             self.usertext += ''
+                        elif curkeyL == Key.RIGHT_CONTROL:
+                            self.usertext += ''
+                        elif curkeyL == Key.LEFT_CONTROL:
+                            self.usertext += ''
+                        elif curkeyL == Key.CONTEXT_MENU:
+                            self.usertext += ''
+                        elif curkeyL == Key.RIGHT_META:
+                            self.usertext += ''
+                        elif curkeyL == Key.RIGHT_ALT:
+                            self.usertext += ''
+                        elif curkeyL == Key.LEFT_META:
+                            self.usertext += ''
+                        elif curkeyL == Key.LEFT_ALT:
+                            self.usertext += ''
                         elif curkeyL == Key.RETURN:
                             running = False
                             self.keyboard.update_key(curkeyL, released_key_info)
@@ -415,11 +452,11 @@ class TypingTool():
                             self.usertext += curkeyL.value
                             self.total_count += 1
 
-                    if event.button == 5 or event.button == 9 and self.mode != 'Left':
+                    if (event.button == 5 or event.button == 9) and self.mode != 'Left':
                         self.keyboard.update_key(curkeyR, pressed_key_info_R)
 
                         self.add_key_R(curkeyR, 'pressed')
-
+                        
                         if curkeyR == Key.BACKSPACE:
                             self.usertext = self.usertext[:-1]
                             correction_count += 1
@@ -434,6 +471,20 @@ class TypingTool():
                             self.usertext += ''
                         elif curkeyR == Key.CAPSLOCK:
                             self.usertext += ''
+                        elif curkeyR == Key.RIGHT_CONTROL:
+                            self.usertext += ''
+                        elif curkeyR == Key.LEFT_CONTROL:
+                            self.usertext += ''
+                        elif curkeyR == Key.CONTEXT_MENU:
+                            self.usertext += ''
+                        elif curkeyR == Key.RIGHT_META:
+                            self.usertext += ''
+                        elif curkeyR == Key.RIGHT_ALT:
+                            self.usertext += ''
+                        elif curkeyR == Key.LEFT_META:
+                            self.usertext += ''
+                        elif curkeyR == Key.LEFT_ALT:
+                            self.usertext += ''
                         elif curkeyR == Key.RETURN:
                             running = False
                             self.keyboard.update_key(curkeyL, released_key_info)
@@ -442,6 +493,7 @@ class TypingTool():
                         else:
                             self.usertext += curkeyR.value
                             self.total_count += 1
+                            print('select r')
                     print(self.interactedkeys)
                     self.screen.fill(pygame.Color('White'))
                     self.write_text(self.screen, self.sentence, 65,
@@ -520,8 +572,8 @@ class TypingTool():
                                 curkeyR, hovered_key_info_R)
                             self.keyboard.update_key(
                                 curkeyL, hovered_key_info_L)
-                            print('curkeyL: % prevkeyL: %', curkeyL, curprevkeyL)
-                            print('curkeyR: % prevkeyR: %', curkeyR, curprevkeyR)
+                            print(f'curkeyL: {curkeyL} prevkeyL: {curprevkeyL}')
+                            print(f'curkeyR: {curkeyR} prevkeyR: {curprevkeyR}')
                             if isleft:
                                 self.add_key_L(curkeyL, 'hovered')
                             elif isright:
