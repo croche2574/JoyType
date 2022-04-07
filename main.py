@@ -185,8 +185,6 @@ class TypingTool():
         self.userid = value
 
     def prepare_results(self):
-        print(self.userid)
-        self.userresults["user_id"] = self.userid
         self.userresults["start_time"] = str(
             timedelta(seconds=round(time.time())))
         self.userresults["date"] = date.today()
@@ -234,7 +232,7 @@ class TypingTool():
 
     def save_and_quit(self):
         timestr = time.strftime("%Y%m%d-%H%M%S")
-        with open('./output/' + self.userid + timestr + '.json', 'w') as convert_file:
+        with open('./output/' + self.userid + '-' + timestr + '.json', 'w') as convert_file:
             convert_file.write(json.dumps(
                 self.userresults, indent=4, default=str))
         print('quit')
@@ -301,6 +299,7 @@ class TypingTool():
             self.total_count += 1
 
     def run_until_user_closes_window(self):  # main loop
+        self.userresults["user_id"] = self.userid
         self.starttime = time.time()
         self.runnum += 1
         self.screen.fill(pygame.Color('White'))

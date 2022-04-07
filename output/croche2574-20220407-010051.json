@@ -1,0 +1,5627 @@
+{
+    "user_id": "croche2574",
+    "start_time": "19089 days, 4:55:32",
+    "date": "2022-04-07",
+    "Run 1": {
+        "sentence": "the cream rises to the top",
+        "submitted_text": "the cream rises to the top",
+        "mode": "Left",
+        "percent_incorrect": 0.0,
+        "wpm": 7.7082647442184005,
+        "net_wpm": 7.7082647442184005,
+        "cps": 0.6423553953515333,
+        "accuracy": 100.0,
+        "interacted_keys": [
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19966697692871094
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2005147933959961
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2010645866394043
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.41146302223205566
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.38975954055786133
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40115952491760254
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20061707496643066
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.748509407043457
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4556925296783447
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20037579536437988
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20088815689086914
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.001031637191772461
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.7847802639007568
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.6173946857452393
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20068001747131348
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20175766944885254
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.36014652252197266
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4407308101654053
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4007124900817871
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2005174160003662
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.43497323989868164
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3670816421508789
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20073175430297852
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40106844902038574
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3212003707885742
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4800984859466553
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.39052581787109375
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.40932631492614746
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20026922225952148
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20139479637145996
+            },
+            {
+                "key_value": "Key.TAB",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.CAPSLOCK",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 1.0004079341888428
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3650093078613281
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.43723344802856445
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20176076889038086
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1997356414794922
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20213866233825684
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19932842254638672
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4004979133605957
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4062840938568115
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3968076705932617
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20000457763671875
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6997265815734863
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.5052709579467773
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20000123977661133
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20139575004577637
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010209083557128906
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.46465086936950684
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3370246887207031
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19855141639709473
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.200103759765625
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20162701606750488
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3359036445617676
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.26418447494506836
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2017199993133545
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2003014087677002
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20034265518188477
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19990992546081543
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20076370239257812
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20051074028015137
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.46009063720703125
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.34197306632995605
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.8021483421325684
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3107321262359619
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4909393787384033
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010077953338623047
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4307384490966797
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.569413423538208
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20103049278259277
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010035037994384766
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1983494758605957
+            },
+            {
+                "key_value": "Key.RIGHT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.RIGHT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6013448238372803
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4243478775024414
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.37690305709838867
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19998860359191895
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 1.0021872520446777
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.36238622665405273
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4386439323425293
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20151329040527344
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20153045654296875
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20058917999267578
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.34498167037963867
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4558756351470947
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20236682891845703
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2001206874847412
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1990680694580078
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2009882926940918
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.400662899017334
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.47795557975769043
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3236045837402344
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20135879516601562
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20020461082458496
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40863037109375
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.5936460494995117
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40044450759887695
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3622157573699951
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4397268295288086
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20013952255249023
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20003795623779297
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40294623374938965
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.31722044944763184
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.28342485427856445
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1990969181060791
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20023632049560547
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20029330253601074
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20061779022216797
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4916248321533203
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.31110382080078125
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20186185836791992
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19834160804748535
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.36065006256103516
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.23929095268249512
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20000720024108887
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19955778121948242
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2003917694091797
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2778763771057129
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.32404065132141113
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.44739603996276855
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.35462474822998047
+            },
+            {
+                "key_value": "Key.LEFTBRACKET",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19946074485778809
+            },
+            {
+                "key_value": "Key.RIGHTBRACKET",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20144248008728027
+            },
+            {
+                "key_value": "Key.BACKSLASH",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19997262954711914
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.46909666061401367
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "pressed",
+                "cursor": "Left"
+            }
+        ]
+    },
+    "Run 2": {
+        "sentence": "communicate through email",
+        "submitted_text": "communicate through email",
+        "mode": "Left",
+        "percent_incorrect": 0.0,
+        "wpm": 7.3311181118156385,
+        "net_wpm": 7.3311181118156385,
+        "cps": 0.6109265093179699,
+        "accuracy": 100.0,
+        "interacted_keys": [
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2015848159790039
+            },
+            {
+                "key_value": "Key.Z",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6012532711029053
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.401170015335083
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.35671472549438477
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4439995288848877
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20054912567138672
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1999506950378418
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20202159881591797
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19983386993408203
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19979000091552734
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2001032829284668
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3174912929534912
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4833681583404541
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2002723217010498
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.45639514923095703
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4130079746246338
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.5343294143676758
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2000737190246582
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19935870170593262
+            },
+            {
+                "key_value": "Key.DIGIT_7",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3994741439819336
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4508063793182373
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.35039401054382324
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2011575698852539
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2002396583557129
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.5238568782806396
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.2781186103820801
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20067882537841797
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20157980918884277
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.DIGIT_8",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4003293514251709
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.45479321479797363
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3460073471069336
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1990036964416504
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20048165321350098
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20062947273254395
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40222764015197754
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6110153198242188
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3890364170074463
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20053601264953613
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20069456100463867
+            },
+            {
+                "key_value": "Key.TAB",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4015481472015381
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20096540451049805
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2002573013305664
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2021622657775879
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.Z",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19962739944458008
+            },
+            {
+                "key_value": "Key.LEFT_SHIFT",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6009461879730225
+            },
+            {
+                "key_value": "Key.CAPSLOCK",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4025259017944336
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.32981085777282715
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.27094030380249023
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2005901336669922
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20057916641235352
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20086956024169922
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20077896118164062
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.38135313987731934
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.41908693313598633
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1999959945678711
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.39940786361694336
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.6015827655792236
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20041203498840332
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20088648796081543
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4160921573638916
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3847496509552002
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20098018646240234
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20108509063720703
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4571809768676758
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3436241149902344
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.5925781726837158
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.40845584869384766
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1997394561767578
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1994619369506836
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.41344594955444336
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3872241973876953
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2007277011871338
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20081520080566406
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19919586181640625
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2007889747619629
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2963745594024658
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3056328296661377
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20055079460144043
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.38671374320983887
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.414670467376709
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20221757888793945
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4402000904083252
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3602774143218994
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.38912296295166016
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 1.014838695526123
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6019561290740967
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4229741096496582
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.5783247947692871
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20190834999084473
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19966959953308105
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4517822265625
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.34981560707092285
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20164847373962402
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20032978057861328
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6009242534637451
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.31899142265319824
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.48149847984313965
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20137262344360352
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19954586029052734
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.200547456741333
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.00018930435180664062
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20011425018310547
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3999359607696533
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.001008749008178711
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.489788293838501
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3099040985107422
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20045161247253418
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20090985298156738
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2004711627960205
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20098400115966797
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20042824745178223
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4008209705352783
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20068645477294922
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20075249671936035
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4005556106567383
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3853604793548584
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4169905185699463
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4015774726867676
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4560272693634033
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.7452001571655273
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20010685920715332
+            },
+            {
+                "key_value": "Key.SINGLEQUOTE",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20084333419799805
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.841977596282959
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "pressed",
+                "cursor": "Left"
+            }
+        ]
+    },
+    "Run 3": {
+        "sentence": "the assault took six months",
+        "submitted_text": "the assault took six months",
+        "mode": "Right",
+        "percent_incorrect": 0.0,
+        "wpm": 7.5412858353966525,
+        "net_wpm": 7.5412858353966525,
+        "cps": 0.6284404862830544,
+        "accuracy": 100.0,
+        "interacted_keys": [
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20070910453796387
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20051980018615723
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20029211044311523
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20174694061279297
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3742537498474121
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.42598938941955566
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20081138610839844
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 1.0019421577453613
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010006427764892578
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40079259872436523
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19986248016357422
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3555920124053955
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.44403553009033203
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2009737491607666
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20078372955322266
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.45180273056030273
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.350416898727417
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19988155364990234
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001001596450805664
+            },
+            {
+                "key_value": "Key.Z",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19997501373291016
+            },
+            {
+                "key_value": "Key.LEFT_META",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19992518424987793
+            },
+            {
+                "key_value": "Key.LEFT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4016392230987549
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3495213985443115
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.45259881019592285
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19925522804260254
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20178008079528809
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20041656494140625
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20067954063415527
+            },
+            {
+                "key_value": "Key.Z",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.46983933448791504
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5322885513305664
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.33064985275268555
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.2618372440338135
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.40952539443969727
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.34110474586486816
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.46004605293273926
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.400407075881958
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20024394989013672
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20020842552185059
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20132064819335938
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19853878021240234
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4015846252441406
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.418565034866333
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.38300609588623047
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19918560981750488
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 1.0016636848449707
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3579895496368408
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.44249486923217773
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20126938819885254
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1994624137878418
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1999051570892334
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3888692855834961
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4130513668060303
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20184826850891113
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20102334022521973
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3529505729675293
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4470555782318115
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20061469078063965
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20119690895080566
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.32848286628723145
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.472851037979126
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20070838928222656
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20122647285461426
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20049667358398438
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2681100368499756
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.28427886962890625
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4513537883758545
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19923138618469238
+            },
+            {
+                "key_value": "Key.PERIOD",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.6018967628479004
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4025900363922119
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.49092793464660645
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.30951690673828125
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20045685768127441
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20054221153259277
+            },
+            {
+                "key_value": "Key.LEFT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 1.003185749053955
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3634669780731201
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4383840560913086
+            },
+            {
+                "key_value": "Key.LEFT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19987082481384277
+            },
+            {
+                "key_value": "Key.Z",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40006184577941895
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40120911598205566
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3668515682220459
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4330589771270752
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20052289962768555
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.DIGIT_3",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20126891136169434
+            },
+            {
+                "key_value": "Key.DIGIT_4",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19929289817810059
+            },
+            {
+                "key_value": "Key.DIGIT_5",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2007453441619873
+            },
+            {
+                "key_value": "Key.DIGIT_6",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20013689994812012
+            },
+            {
+                "key_value": "Key.DIGIT_7",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20007944107055664
+            },
+            {
+                "key_value": "Key.DIGIT_8",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4008347988128662
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3712904453277588
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.22938036918640137
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20111751556396484
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1989762783050537
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20081639289855957
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19994211196899414
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20064043998718262
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000839233398438
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.48116374015808105
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3202536106109619
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20064377784729004
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2000141143798828
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3961215019226074
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.40526700019836426
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20038914680480957
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20002484321594238
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.37248706817626953
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4289426803588867
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20017480850219727
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20141315460205078
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.DIGIT_8",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19999361038208008
+            },
+            {
+                "key_value": "Key.DIGIT_9",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40149664878845215
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3915221691131592
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.40911269187927246
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20062851905822754
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20110106468200684
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.36496639251708984
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.43625426292419434
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20103788375854492
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.47983741760253906
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.32213401794433594
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19990110397338867
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.000736236572265625
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3998086452484131
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4208493232727051
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.38030004501342773
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20077848434448242
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19974946975708008
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2003011703491211
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3152594566345215
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.2855968475341797
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20012974739074707
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20141291618347168
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1986079216003418
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2010209560394287
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19943571090698242
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000338554382324
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20061564445495605
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20075702667236328
+            },
+            {
+                "key_value": "Key.SINGLEQUOTE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2000718116760254
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3647000789642334
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "pressed",
+                "cursor": "Right"
+            }
+        ]
+    },
+    "Run 4": {
+        "sentence": "pumping helps if the roads are slippery",
+        "submitted_text": "pumping helps if the roads are slippery",
+        "mode": "Right",
+        "percent_incorrect": 0.0,
+        "wpm": 6.710868343749106,
+        "net_wpm": 6.710868343749106,
+        "cps": 0.5592390286457588,
+        "accuracy": 97.5,
+        "interacted_keys": [
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20010018348693848
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1997544765472412
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2010812759399414
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40035462379455566
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20087957382202148
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20059800148010254
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.42966604232788086
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3715248107910156
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2019822597503662
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1998450756072998
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4269275665283203
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5758082866668701
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2004380226135254
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4002807140350342
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3996148109436035
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000457763671875
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010099411010742188
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19906401634216309
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.DIGIT_0",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.802112340927124
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4295485019683838
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3711059093475342
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20108342170715332
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.41676926612854004
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3835270404815674
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2000110149383545
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4969217777252197
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.30555081367492676
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20095419883728027
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.39980030059814453
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.42612457275390625
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3748629093170166
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20128369331359863
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40618467330932617
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3945012092590332
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20026493072509766
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.403026819229126
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4659719467163086
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.33496832847595215
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000529289245605
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1993882656097412
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19996356964111328
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.42324066162109375
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.37937092781066895
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19961905479431152
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20064353942871094
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20098352432250977
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20035409927368164
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20096325874328613
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2005138397216797
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3214404582977295
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.47936534881591797
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20046114921569824
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.48061585426330566
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.321195125579834
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20024967193603516
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1996474266052246
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.200758695602417
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20180106163024902
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20018410682678223
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20096302032470703
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.399219274520874
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4008522033691406
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.36055779457092285
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.44031381607055664
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001001119613647461
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19894886016845703
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.49921274185180664
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.30124640464782715
+            },
+            {
+                "key_value": "Key.RIGHT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20196843147277832
+            },
+            {
+                "key_value": "Key.PERIOD",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001001596450805664
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19860148429870605
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010027885437011719
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.8014962673187256
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.201371431350708
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3402121067047119
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4613790512084961
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2004835605621338
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0009870529174804688
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19959807395935059
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20151615142822266
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20002102851867676
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4020102024078369
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.41901183128356934
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.38194823265075684
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20097827911376953
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.39160609245300293
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4093661308288574
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20105576515197754
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19890952110290527
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4000282287597656
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3950786590576172
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.40808773040771484
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 1.0025534629821777
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.35271644592285156
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.04851722717285156
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 1.0024042129516602
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20053648948669434
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000386238098145
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40044689178466797
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3361029624938965
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.46540331840515137
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20006060600280762
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19962716102600098
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40251660346984863
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.40099406242370605
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19939827919006348
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20029401779174805
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19902253150939941
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.400867223739624
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4002037048339844
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2001340389251709
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19937920570373535
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20006489753723145
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000815391540527
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.26201319694519043
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.33799028396606445
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1992661952972412
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20084118843078613
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20024609565734863
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19926691055297852
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19978833198547363
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2016458511352539
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19935393333435059
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000314712524414
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3172183036804199
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4839353561401367
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20129966735839844
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.24533605575561523
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5552401542663574
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.37474751472473145
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4275827407836914
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20034098625183105
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001001119613647461
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20042872428894043
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010046958923339844
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4295060634613037
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.37097597122192383
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20047712326049805
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20158791542053223
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20037174224853516
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19902658462524414
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20136332511901855
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3889579772949219
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4117312431335449
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20004796981811523
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20192909240722656
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20007109642028809
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.41065001487731934
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3919081687927246
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.41843175888061523
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3825185298919678
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20061039924621582
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20058631896972656
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.35622096061706543
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4465780258178711
+            },
+            {
+                "key_value": "Key.LEFT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2002110481262207
+            },
+            {
+                "key_value": "Key.Z",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40265679359436035
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3835163116455078
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4170055389404297
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20048213005065918
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20008277893066406
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20003676414489746
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20052576065063477
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20105671882629395
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2004389762878418
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.28444766998291016
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3153543472290039
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2007007598876953
+            },
+            {
+                "key_value": "Key.DIGIT_9",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20001649856567383
+            },
+            {
+                "key_value": "Key.DIGIT_8",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4002847671508789
+            },
+            {
+                "key_value": "Key.DIGIT_9",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40215325355529785
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4168531894683838
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3824331760406494
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2006058692932129
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3976280689239502
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4204704761505127
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3844757080078125
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1995224952697754
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20019888877868652
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20077037811279297
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19980382919311523
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000433921813965
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20173358917236328
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19907712936401367
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.10343027114868164
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.6997292041778564
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.8013544082641602
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2002260684967041
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20023369789123535
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20012450218200684
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.DIGIT_7",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19965195655822754
+            },
+            {
+                "key_value": "Key.DIGIT_8",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1999950408935547
+            },
+            {
+                "key_value": "Key.DIGIT_9",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2002735137939453
+            },
+            {
+                "key_value": "Key.DIGIT_0",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20119452476501465
+            },
+            {
+                "key_value": "Key.MINUS",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19984674453735352
+            },
+            {
+                "key_value": "Key.EQUALS",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.6022610664367676
+            },
+            {
+                "key_value": "Key.BACKSPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3443026542663574
+            },
+            {
+                "key_value": "Key.BACKSPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4565725326538086
+            },
+            {
+                "key_value": "Key.EQUALS",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.RIGHTBRACKET",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2000443935394287
+            },
+            {
+                "key_value": "Key.LEFTBRACKET",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010018348693847656
+            },
+            {
+                "key_value": "Key.SINGLEQUOTE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19938063621520996
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.FORWARDSLASH",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1995837688446045
+            },
+            {
+                "key_value": "Key.PERIOD",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20054841041564941
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20035552978515625
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19983911514282227
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20018625259399414
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19931268692016602
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20068144798278809
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20122051239013672
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 1.0001609325408936
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.633514404296875
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5691425800323486
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20011258125305176
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.6030147075653076
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.39073896408081055
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.40981078147888184
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20006775856018066
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40132689476013184
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.6011013984680176
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20050048828125
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20021581649780273
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.PERIOD",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20094823837280273
+            },
+            {
+                "key_value": "Key.FORWARDSLASH",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2009868621826172
+            },
+            {
+                "key_value": "Key.RIGHT_SHIFT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40033602714538574
+            },
+            {
+                "key_value": "Key.LEFT_CONTROL",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.LEFT_SHIFT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.6013531684875488
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19977283477783203
+            },
+            {
+                "key_value": "Key.SINGLEQUOTE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4000205993652344
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.9598550796508789
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "pressed",
+                "cursor": "Right"
+            }
+        ]
+    },
+    "Run 5": {
+        "sentence": "they watched the entire movie",
+        "submitted_text": "they watched the entire movvie",
+        "mode": "Both",
+        "percent_incorrect": 3.4482758620689653,
+        "wpm": 8.584873859987232,
+        "net_wpm": 7.154061549989359,
+        "cps": 0.7154061549989359,
+        "accuracy": 96.66666666666667,
+        "interacted_keys": [
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20000386238098145
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2013380527496338
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1991429328918457
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4336543083190918
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.5684366226196289
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20012331008911133
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2018141746520996
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19966459274291992
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001001596450805664
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.38878631591796875
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4134807586669922
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.200333833694458
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.36782264709472656
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4331045150756836
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3475959300994873
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4548606872558594
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19934988021850586
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20096874237060547
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3205997943878174
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.48082470893859863
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.38268423080444336
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4190709590911865
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010075569152832031
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.36104440689086914
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.44008398056030273
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.1990525722503662
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.8014311790466309
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20217514038085938
+            },
+            {
+                "key_value": "Key.DIGIT_5",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19945740699768066
+            },
+            {
+                "key_value": "Key.DIGIT_5",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20029640197753906
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.5216572284698486
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.279646635055542
+            },
+            {
+                "key_value": "Key.Z",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20133519172668457
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.LEFT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.39995288848876953
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1993093490600586
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20036029815673828
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4007399082183838
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4244213104248047
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3769199848175049
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010137557983398438
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4906282424926758
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3099370002746582
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2012772560119629
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3662993907928467
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4349689483642578
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.9820253849029541
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4219820499420166
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.6003439426422119
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010051727294921875
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.34963560104370117
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4514923095703125
+            },
+            {
+                "key_value": "Key.RIGHT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0009996891021728516
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20022225379943848
+            },
+            {
+                "key_value": "Key.PERIOD",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40021824836730957
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40264081954956055
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20156121253967285
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010073184967041016
+            },
+            {
+                "key_value": "Key.DIGIT_5",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40082883834838867
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.44589877128601074
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.356830358505249
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010044574737548828
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.5268146991729736
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.27344799041748047
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20013141632080078
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010116100311279297
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20075583457946777
+            },
+            {
+                "key_value": "Key.DIGIT_4",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40025854110717773
+            },
+            {
+                "key_value": "Key.DIGIT_3",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010025501251220703
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.47641468048095703
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3245677947998047
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010001659393310547
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20045256614685059
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.5087981224060059
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.7286868095397949
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.5668370723724365
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 1.0028889179229736
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.35620665550231934
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4449753761291504
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1995530128479004
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3447260856628418
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.457228422164917
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20165061950683594
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001003265380859375
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19962668418884277
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3771853446960449
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4238717555999756
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20081710815429688
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40256714820861816
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.33051109313964844
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4700131416320801
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2013561725616455
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.39961910247802734
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3084733486175537
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.29236412048339844
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19955706596374512
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19935107231140137
+            },
+            {
+                "key_value": "Key.RIGHT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4019613265991211
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0007872581481933594
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.36705994606018066
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.43251514434814453
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20093345642089844
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20059680938720703
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.35223388671875
+            },
+            {
+                "key_value": "Key.M",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4480173587799072
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001020669937133789
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20017027854919434
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4965932369232178
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3047771453857422
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.001001119613647461
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19808053970336914
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.001018524169921875
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4011549949645996
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.36041998863220215
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4411137104034424
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4152064323425293
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 1.469292402267456
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5206379890441895
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010120868682861328
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.1990373134613037
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0009996891021728516
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40044236183166504
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3707082271575928
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.6312143802642822
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20000386238098145
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010080337524414062
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20054221153259277
+            },
+            {
+                "key_value": "Key.SINGLEQUOTE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.601586103439331
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3006625175476074
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "pressed",
+                "cursor": "Right"
+            }
+        ]
+    },
+    "Run 6": {
+        "sentence": "we are having spaghetti",
+        "submitted_text": "we are having spaghetti",
+        "mode": "Both",
+        "percent_incorrect": 0.0,
+        "wpm": 7.925752388306223,
+        "net_wpm": 7.925752388306223,
+        "cps": 0.6604793656921852,
+        "accuracy": 100.0,
+        "interacted_keys": [
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.32131123542785645
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.2814028263092041
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.34124159812927246
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.658808708190918
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20141363143920898
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.PERIOD",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20080089569091797
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.RIGHT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.6004953384399414
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.30203914642333984
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.10036063194274902
+            },
+            {
+                "key_value": "Key.LEFT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3997809886932373
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20092129707336426
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4003758430480957
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4142036437988281
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.18701910972595215
+            },
+            {
+                "key_value": "Key.Q",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20070672035217285
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20061707496643066
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40034937858581543
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.39821696281433105
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4047513008117676
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.38290977478027344
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4171724319458008
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4606187343597412
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5396771430969238
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20128154754638672
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6023242473602295
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19858980178833008
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4018099308013916
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4634077548980713
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.3374767303466797
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19987225532531738
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0010097026824951172
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2010951042175293
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2000124454498291
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19987154006958008
+            },
+            {
+                "key_value": "Key.CAPSLOCK",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.40107154846191406
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.34966588020324707
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4536571502685547
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20020294189453125
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2000105381011963
+            },
+            {
+                "key_value": "Key.LEFT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20068597793579102
+            },
+            {
+                "key_value": "Key.X",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19955682754516602
+            },
+            {
+                "key_value": "Key.C",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0009877681732177734
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20099711418151855
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.39996790885925293
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.5063588619232178
+            },
+            {
+                "key_value": "Key.V",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.29506659507751465
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20176005363464355
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010175704956054688
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19825077056884766
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010004043579101562
+            },
+            {
+                "key_value": "Key.DIGIT_7",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19988083839416504
+            },
+            {
+                "key_value": "Key.DIGIT_8",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4017949104309082
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3874971866607666
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.41184043884277344
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010042190551757812
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2003343105316162
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010123252868652344
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.49640369415283203
+            },
+            {
+                "key_value": "Key.N",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5021185874938965
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20014309883117676
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2002718448638916
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.6018061637878418
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.34813904762268066
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.4548487663269043
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.47478342056274414
+            },
+            {
+                "key_value": "Key.SPACE",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.7266800403594971
+            },
+            {
+                "key_value": "Key.F",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19956064224243164
+            },
+            {
+                "key_value": "Key.D",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.2001042366027832
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3293130397796631
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.47281360626220703
+            },
+            {
+                "key_value": "Key.RIGHT_ALT",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.001001596450805664
+            },
+            {
+                "key_value": "Key.COMMA",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19990897178649902
+            },
+            {
+                "key_value": "Key.PERIOD",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19966506958007812
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4670445919036865
+            },
+            {
+                "key_value": "Key.P",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.33246827125549316
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4094970226287842
+            },
+            {
+                "key_value": "Key.A",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.3919253349304199
+            },
+            {
+                "key_value": "Key.O",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2019491195678711
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.19927167892456055
+            },
+            {
+                "key_value": "Key.U",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2021045684814453
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0010075569152832031
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3986692428588867
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.B",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.6026432514190674
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.5685498714447021
+            },
+            {
+                "key_value": "Key.G",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.4338202476501465
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4946596622467041
+            },
+            {
+                "key_value": "Key.H",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.5059442520141602
+            },
+            {
+                "key_value": "Key.J",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20097780227661133
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.40206146240234375
+            },
+            {
+                "key_value": "Key.S",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.0
+            },
+            {
+                "key_value": "Key.W",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20022249221801758
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.5431649684906006
+            },
+            {
+                "key_value": "Key.E",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.25982666015625
+            },
+            {
+                "key_value": "Key.R",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.20041251182556152
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.19965839385986328
+            },
+            {
+                "key_value": "Key.Y",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.4010939598083496
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "hovered",
+                "cursor": "Left",
+                "time_hovered": 0.3869810104370117
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.49463438987731934
+            },
+            {
+                "key_value": "Key.T",
+                "interact_type": "pressed",
+                "cursor": "Left",
+                "time_hovered": 0.5199055671691895
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.5377264022827148
+            },
+            {
+                "key_value": "Key.I",
+                "interact_type": "pressed",
+                "cursor": "Right",
+                "time_hovered": 0.46444225311279297
+            },
+            {
+                "key_value": "Key.K",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.3996915817260742
+            },
+            {
+                "key_value": "Key.L",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.2008039951324463
+            },
+            {
+                "key_value": "Key.SEMICOLON",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20038914680480957
+            },
+            {
+                "key_value": "Key.SINGLEQUOTE",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.20190668106079102
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "hovered",
+                "cursor": "Right",
+                "time_hovered": 0.4005858898162842
+            },
+            {
+                "key_value": "Key.RETURN",
+                "interact_type": "pressed",
+                "cursor": "Right"
+            }
+        ]
+    }
+}
