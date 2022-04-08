@@ -445,7 +445,7 @@ class TypingTool():
 
                     if (event.button == 5 or event.button == 9) and self.mode != 'Left':
                         self.keyboard.update_key(curkeyR, pressed_key_info_R)
-
+    
                         self.add_key_R(curkeyR, 'pressed')
 
                         if curkeyR == Key.BACKSPACE:
@@ -467,16 +467,16 @@ class TypingTool():
                             self.usertext += curkeyR.value
                             self.total_count += 1
                             print('select r')
-                    print(self.interactedkeys)
+                    # print(self.interactedkeys)
                     self.screen.fill(pygame.Color('White'))
                     self.write_text(self.screen, self.sentence, 65,
                                     35, pygame.Color('Black'))
                     self.write_text(self.screen, self.usertext, 100,
                                     25, pygame.Color('Black'))
                 elif event.type == pygame.JOYBUTTONUP:
-                    if event.button == 4 or event.button == 8:
+                    if (event.button == 4 or event.button == 8) and self.mode != 'Right' :
                         self.keyboard.update_key(curkeyL, hovered_key_info_L)
-                    if event.button == 5 or event.button == 9:
+                    if (event.button == 5 or event.button == 9) and self.mode != 'Left':
                         self.keyboard.update_key(curkeyR, hovered_key_info_R)
 
                 if event.type == self.MOVEEVENT:
