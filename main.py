@@ -174,7 +174,7 @@ class TypingTool():
         menu.add.selector(
             'Mode :', [('Left', 1), ('Right', 2), ('Both', 3)], onchange=self.set_mode)
         menu.add.button('Start', self.run_until_user_closes_window)
-        menu.add.button('Quit', self.save_and_quit)
+        menu.add.button('Save & Quit', self.save_and_quit)
         menu.mainloop(self.screen)
 
     def set_mode(self, mode, num):
@@ -430,27 +430,7 @@ class TypingTool():
                         elif curkeyL == Key.SPACE:
                             self.usertext += ' '
                             self.total_count += 1
-                        elif curkeyL == Key.TAB:
-                            self.usertext += ''
-                        elif curkeyL == Key.LEFT_SHIFT:
-                            self.usertext += ''
-                        elif curkeyL == Key.RIGHT_SHIFT:
-                            self.usertext += ''
-                        elif curkeyL == Key.CAPSLOCK:
-                            self.usertext += ''
-                        elif curkeyL == Key.RIGHT_CONTROL:
-                            self.usertext += ''
-                        elif curkeyL == Key.LEFT_CONTROL:
-                            self.usertext += ''
-                        elif curkeyL == Key.CONTEXT_MENU:
-                            self.usertext += ''
-                        elif curkeyL == Key.RIGHT_META:
-                            self.usertext += ''
-                        elif curkeyL == Key.RIGHT_ALT:
-                            self.usertext += ''
-                        elif curkeyL == Key.LEFT_META:
-                            self.usertext += ''
-                        elif curkeyL == Key.LEFT_ALT:
+                        elif joycur[0].index in disabled_keys:
                             self.usertext += ''
                         elif curkeyL == Key.RETURN:
                             running = False
@@ -474,27 +454,7 @@ class TypingTool():
                         elif curkeyR == Key.SPACE:
                             self.usertext += ' '
                             self.total_count += 1
-                        elif curkeyR == Key.TAB:
-                            self.usertext += ''
-                        elif curkeyR == Key.LEFT_SHIFT:
-                            self.usertext += ''
-                        elif curkeyR == Key.RIGHT_SHIFT:
-                            self.usertext += ''
-                        elif curkeyR == Key.CAPSLOCK:
-                            self.usertext += ''
-                        elif curkeyR == Key.RIGHT_CONTROL:
-                            self.usertext += ''
-                        elif curkeyR == Key.LEFT_CONTROL:
-                            self.usertext += ''
-                        elif curkeyR == Key.CONTEXT_MENU:
-                            self.usertext += ''
-                        elif curkeyR == Key.RIGHT_META:
-                            self.usertext += ''
-                        elif curkeyR == Key.RIGHT_ALT:
-                            self.usertext += ''
-                        elif curkeyR == Key.LEFT_META:
-                            self.usertext += ''
-                        elif curkeyR == Key.LEFT_ALT:
+                        elif joycur[1].index in disabled_keys:
                             self.usertext += ''
                         elif curkeyR == Key.RETURN:
                             running = False
