@@ -486,7 +486,7 @@ class TypingTool():
                 for x in range(0, 4):
                     isleft = False
                     isright = False
-                    if abs(self.my_joystick.get_axis(x)) > .4:
+                    if abs(self.my_joystick.get_axis(x)) > .25:
                         # print('Axis: %', x)
                         if x == 0 and self.mode != 'Right':
                             joycur[0].moveX(math.copysign(
